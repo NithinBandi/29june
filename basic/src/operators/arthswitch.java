@@ -1,7 +1,7 @@
 /*Write a program that takes two numbers and an operator(+, -, *, /) as input and performs the corresponding
 arithmetic operation using a Switch Statements.*/
 
-package constructors;
+package operators;
 import java.util.Scanner;
 public class arthswitch {
 

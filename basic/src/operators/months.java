@@ -1,6 +1,6 @@
 /*Write a program that takes a number from 1 to 12 as input and prints the corresponding month name using a
 Switch Statements*/
-package constructors;
+package operators;
 import java.util.Scanner;
 public class months {
 

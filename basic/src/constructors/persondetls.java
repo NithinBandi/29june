@@ -17,6 +17,7 @@ public class persondetls {
 	public void introduce()
 	{
 		System.out.println("name"+name+"age"+age);
+		
 	}
 	 
 	

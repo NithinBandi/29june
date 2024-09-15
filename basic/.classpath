@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/nithi/Downloads/ojdbc14.jar/ojdbc14.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
